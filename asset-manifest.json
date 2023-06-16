@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valorant-agents/static/css/main.0fe6136a.css",
+    "main.js": "/valorant-agents/static/js/main.ee773358.js",
+    "static/media/apiLogo.png": "/valorant-agents/static/media/apiLogo.d92013edcfa8be6be474.png",
+    "static/media/logo.png": "/valorant-agents/static/media/logo.c4a68fb7377207202e9c.png",
+    "index.html": "/valorant-agents/index.html",
+    "main.0fe6136a.css.map": "/valorant-agents/static/css/main.0fe6136a.css.map",
+    "main.ee773358.js.map": "/valorant-agents/static/js/main.ee773358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe6136a.css",
+    "static/js/main.ee773358.js"
+  ]
+}
