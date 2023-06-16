@@ -470,9 +470,6 @@ select {
   letter-spacing: 0.6px;
 }
 
-option {
-}
-
 textarea {
   font-family: 'Raleway', sans-serif;
   resize: none;
